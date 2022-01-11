@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <title>Contador de Visitas</title>
+    <title>Contador de Visitas:: WebDeveloper</title>
     <style type="text/css">
       body{
         background-color:#f9f9f9 !important;
@@ -23,7 +23,7 @@
  <div class="row justify-content-md-center">
     <div class="col-md-12">
       <h1 class="text-center font-weight-bolder" style="font-size: 60px; font-weight:800;">
-      Contador de Vistas Fácil y Rápido 2021 con 
+      Contador de Vistas Fácil y Rápido 2022 con 
       <strong style="color:orange">Txt </strong> & <span style="color:#4e42d4">MySql</span></h1>
     </div>
   </div>
@@ -64,7 +64,7 @@
 }
 
 
-//include('mycountVisit.php');
+include('mycountVisit.php');
 
 ?>
 
